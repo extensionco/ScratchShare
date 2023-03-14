@@ -1,16 +1,16 @@
 {
     "manifest_version": 2,
     "name": "ScratchShare",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "description": "Share Scratch projects on social media with ease.",
     "icons": {
-      "48": "icons/icon-48.png",
-      "96": "icons/icon-96.png"
+      "48": "Images/icons/icon-48.png",
+      "96": "Images/icons/icon-96.png"
     },
     "browser_action": {
       "default_icon": {
-        "48": "icons/icon-48.png",
-        "96": "icons/icon-96.png"
+        "48": "Images/icons/icon-48.png",
+        "96": "Images/icons/icon-96.png"
       },
       "default_title": "ScratchShare",
       "default_popup": "popup.html"
